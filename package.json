@@ -1,0 +1,22 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/FC122/JsonServer.git"
+  },
+  "author": "Filip Cica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FC122/JsonServer/issues"
+  },
+  "homepage": "https://github.com/FC122/JsonServer#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
